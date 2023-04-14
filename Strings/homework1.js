@@ -1,6 +1,5 @@
 // WAP to split an even length string into two halves, reverse them and join them then print the final result.
 
-
 let string = "Sourav";
 let output = "";
 
